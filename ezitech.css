@@ -1,0 +1,238 @@
+.xmn{
+    background-color: #e8e3e3;
+    font-family: cursive;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px gold;
+}
+
+.homenav{
+    border-bottom: 2px solid #3275db;
+}
+.header{
+    background-color: #3275db;
+    padding: 8px;
+    color: white;
+}
+
+.nav-link{
+    color: white;
+    margin-left: 30px;
+}
+
+.cnst-text{
+    font-size: 45px;
+    margin-top: 60px;
+}
+
+.cnst-text2{
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.srch-btn{
+    width: 20px;
+}
+
+.sec{
+    background: url('comp-dark.jpg')no-repeat center center/cover;
+    color: white;
+    padding-bottom: 50px;
+}
+
+.mul-logos{
+    font-size: 50px;
+}
+
+.gift-img{
+    border: 5px double black;
+    border-radius: 100px;
+}
+
+.course-imgs{
+    width: 120px;
+    height: 120px;
+    border-radius: 30px;
+    margin-bottom: 30px;
+}
+
+.course-box{
+    border-radius: 40px;
+    transition: all 0.3s ease-in-out 0.3s;
+}
+
+.course-box:hover{
+    margin-bottom: 10px;
+}
+
+.logos{
+    margin-top: 120px;
+}
+
+.logos2{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.card-cnclpric{
+    margin-left: 170px;
+}
+
+.card-price{
+    margin-left: 79px;
+}
+
+.card{
+    margin: 5px;
+    border-radius: 20px;
+}
+
+.card-img{
+    width: 290px;
+    height: 190px;
+    transition: all 0.2s ease-out 0.2s;
+}
+
+.card-img:hover{
+    overflow: hidden;
+    width: 300px;
+    height: 200px;
+}
+
+.transpa-bg{
+    background-color: aliceblue;
+}
+
+.Internship-btn{
+    margin-top: 20px;
+    background-color: #3275db;
+    color: white;
+    border: 1px solid #3275db;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.card-img-overlay{
+    width: 310px;
+    height: 150px;
+    /* z-index: -2; */
+    opacity: 0.7;
+    transition: all 0.2s ease-out 0.2s;
+}
+
+.card-img-overlay:hover{
+    overflow: hidden;
+    width: 320px;
+    height: 160px;
+}
+
+.overlay{
+    opacity: 0.7;
+    color: white;
+    /* color: #3275db; */
+    /* background-color: #3275db; */
+}
+
+.overlay-1{
+    border-bottom: 2px solid white;
+}
+
+.perfect-intern{
+    margin-top: 80px;
+}
+
+.text-clr{
+    color: #3275db;
+}
+
+.app-text{
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.end-bg{
+    background-color: #330ee8;
+}
+
+.endtxtclr{
+    color: #3275db;
+}
+
+.Copyright{
+    margin-top: 70px;
+}
+
+.fcbk:hover, .linkin:hover{
+    color: #3275db;
+}
+
+.typewriter h1 {
+    color: #fff;
+    font-family: monospace;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid orange; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: .15em; /* Adjust as needed */
+    animation: 
+      typing 3.5s steps(30, end),
+      blink-caret .5s step-end infinite;
+  }
+  
+  .wrap{
+    color: #2296cb;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    list-style: none;
+    text-decoration: underline;
+  }
+
+
+  .fix{
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    z-index: 5;
+  }
+
+  .fixed{
+    padding: 3px;
+    position: fixed;
+    bottom: 48px;
+    left: 95px;
+    border-radius: 10px;
+    z-index: 5;
+  }
+
+  .courses{
+    display: flex;
+    flex-direction: row;
+    overflow: scroll;
+    flex-wrap: nowrap;
+    scroll-behavior: smooth;
+  }
+
+  .wrapp{
+    flex-wrap: nowrap;
+  }
+  
+.circle{
+    width: 340px;
+    height: 340px;
+    border-radius:340px;
+    position: relative;
+    top: 400px;
+    left: 130px;
+    z-index: -3;
+    background-color: #3275db;
+    margin-top: -300px;
+}
+
+/* .cir-img{
+    position: relative;
+    top: 50px;
+    left: 40px;
+} */
+
+
+
+
